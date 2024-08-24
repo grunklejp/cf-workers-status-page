@@ -32,3 +32,11 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
 
+  - id: a-local-cart 
+    name: A Local Cart
+    description: 'A Local Cart'
+    url: 'https://alocalcart.com'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true
+
